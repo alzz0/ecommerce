@@ -1,0 +1,11 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.select {
+  margin: 10px 100px 10px 0px;
+}
+.filterContainer h3 {
+  display: inline-block;
+}
